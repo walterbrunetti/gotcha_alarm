@@ -1,10 +1,10 @@
 # gotcha_alarm
 
-It's an Arduino/Python project that pretends to have fun and do something useful in the meantime
+Send an email when lights in the room turn on. Arduino/Python project with light sensors.
 
 
 ### Version 1
-- Read from two sensors
+- Read from two sensors  (use new one)
 - Write event logs in a file
 - Send email when new event raises
 
